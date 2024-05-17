@@ -64,7 +64,7 @@ This portfolio is open-source and available under the [MIT License](LICENSE).
 
 ## 🌐 Demo
 
-Check out the live demo of my personal portfolio website: [Demo link](https://baby-laala.github.io/Personalpage-1/)
+Check out the live demo of my personal portfolio website: [Demo link](https://laavanjan.github.io/Personalpage-1/)
 
 Thank you for visiting my repository and checking out my personal portfolio website! If you have any questions or feedback, feel free to reach out to me.
 
